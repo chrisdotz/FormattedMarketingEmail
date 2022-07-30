@@ -1,0 +1,11 @@
+body{
+text-align: center;
+background-color: wheat;
+color: crimson;
+}
+
+button{
+    border: 10px;
+    color: black;
+    border-radius: 5%;
+}
